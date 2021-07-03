@@ -343,5 +343,6 @@ void run_option()
 int main()
 {
     run_option();
+    cout << "changes" << endl;
     return 0;
 }
